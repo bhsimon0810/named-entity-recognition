@@ -1,0 +1,115 @@
+2021-12-19 01:33:04,540 Train: [ 1/5] Step 000/335 Loss 247.968
+2021-12-19 01:33:26,182 Train: [ 1/5] Step 050/335 Loss 81.818
+2021-12-19 01:33:46,307 Train: [ 1/5] Step 100/335 Loss 71.113
+2021-12-19 01:34:05,265 Train: [ 1/5] Step 150/335 Loss 65.509
+2021-12-19 01:34:22,952 Train: [ 1/5] Step 200/335 Loss 61.177
+2021-12-19 01:34:38,905 Train: [ 1/5] Step 250/335 Loss 57.050
+2021-12-19 01:34:51,171 Train: [ 1/5] Step 300/335 Loss 52.767
+2021-12-19 01:34:56,514 Train: [ 1/5] Step 335/335 Loss 49.430
+2021-12-19 01:34:56,514 Train: [ 1/5] Final Loss 49.430
+2021-12-19 01:35:00,796 Valid: [ 1/5] Final Accuracy 0.326 Recall 0.063 F1 0.106
+2021-12-19 01:35:00,796 Valid Score For Each Entity Category: 
+2021-12-19 01:35:00,796 Category: name Accuracy 0.182 Recall 0.004 F1 0.008
+2021-12-19 01:35:00,796 Category: address Accuracy 0.133 Recall 0.005 F1 0.010
+2021-12-19 01:35:00,796 Category: movie Accuracy 0.000 Recall 0.000 F1 0.000
+2021-12-19 01:35:00,796 Category: position Accuracy 0.946 Recall 0.081 F1 0.149
+2021-12-19 01:35:00,796 Category: organization Accuracy 1.000 Recall 0.003 F1 0.005
+2021-12-19 01:35:00,796 Category: company Accuracy 0.123 Recall 0.079 F1 0.097
+2021-12-19 01:35:00,796 Category: scene Accuracy 0.000 Recall 0.000 F1 0.000
+2021-12-19 01:35:00,796 Category: government Accuracy 0.000 Recall 0.000 F1 0.000
+2021-12-19 01:35:00,796 Category: book Accuracy 0.000 Recall 0.000 F1 0.000
+2021-12-19 01:35:00,796 Category: game Accuracy 0.430 Recall 0.424 F1 0.427
+2021-12-19 01:35:00,796 
+
+2021-12-19 01:35:01,155 Train: [ 2/5] Step 000/335 Loss 53.914
+2021-12-19 01:35:22,649 Train: [ 2/5] Step 050/335 Loss 45.793
+2021-12-19 01:35:42,961 Train: [ 2/5] Step 100/335 Loss 42.543
+2021-12-19 01:36:01,993 Train: [ 2/5] Step 150/335 Loss 40.596
+2021-12-19 01:36:19,757 Train: [ 2/5] Step 200/335 Loss 38.994
+2021-12-19 01:36:35,491 Train: [ 2/5] Step 250/335 Loss 37.120
+2021-12-19 01:36:47,632 Train: [ 2/5] Step 300/335 Loss 34.856
+2021-12-19 01:36:52,913 Train: [ 2/5] Step 335/335 Loss 32.808
+2021-12-19 01:36:52,913 Train: [ 2/5] Final Loss 32.808
+2021-12-19 01:36:57,319 Valid: [ 2/5] Final Accuracy 0.406 Recall 0.101 F1 0.162
+2021-12-19 01:36:57,319 Valid Score For Each Entity Category: 
+2021-12-19 01:36:57,319 Category: name Accuracy 0.500 Recall 0.026 F1 0.049
+2021-12-19 01:36:57,319 Category: address Accuracy 0.385 Recall 0.040 F1 0.073
+2021-12-19 01:36:57,319 Category: movie Accuracy 0.000 Recall 0.000 F1 0.000
+2021-12-19 01:36:57,319 Category: position Accuracy 0.919 Recall 0.132 F1 0.230
+2021-12-19 01:36:57,319 Category: organization Accuracy 0.489 Recall 0.060 F1 0.107
+2021-12-19 01:36:57,319 Category: company Accuracy 0.211 Recall 0.138 F1 0.167
+2021-12-19 01:36:57,319 Category: scene Accuracy 0.156 Recall 0.034 F1 0.055
+2021-12-19 01:36:57,319 Category: government Accuracy 0.333 Recall 0.024 F1 0.045
+2021-12-19 01:36:57,335 Category: book Accuracy 0.474 Recall 0.058 F1 0.104
+2021-12-19 01:36:57,335 Category: game Accuracy 0.489 Recall 0.444 F1 0.465
+2021-12-19 01:36:57,335 
+
+2021-12-19 01:36:57,710 Train: [ 3/5] Step 000/335 Loss 44.631
+2021-12-19 01:37:18,954 Train: [ 3/5] Step 050/335 Loss 36.819
+2021-12-19 01:37:39,220 Train: [ 3/5] Step 100/335 Loss 34.327
+2021-12-19 01:37:58,158 Train: [ 3/5] Step 150/335 Loss 32.856
+2021-12-19 01:38:15,795 Train: [ 3/5] Step 200/335 Loss 31.622
+2021-12-19 01:38:31,514 Train: [ 3/5] Step 250/335 Loss 30.191
+2021-12-19 01:38:43,623 Train: [ 3/5] Step 300/335 Loss 28.395
+2021-12-19 01:38:49,014 Train: [ 3/5] Step 335/335 Loss 26.738
+2021-12-19 01:38:49,014 Train: [ 3/5] Final Loss 26.738
+2021-12-19 01:38:53,279 Valid: [ 3/5] Final Accuracy 0.427 Recall 0.143 F1 0.214
+2021-12-19 01:38:53,279 Valid Score For Each Entity Category: 
+2021-12-19 01:38:53,279 Category: name Accuracy 0.634 Recall 0.056 F1 0.103
+2021-12-19 01:38:53,279 Category: address Accuracy 0.343 Recall 0.064 F1 0.108
+2021-12-19 01:38:53,279 Category: movie Accuracy 0.600 Recall 0.020 F1 0.038
+2021-12-19 01:38:53,279 Category: position Accuracy 0.931 Recall 0.187 F1 0.311
+2021-12-19 01:38:53,279 Category: organization Accuracy 0.458 Recall 0.120 F1 0.190
+2021-12-19 01:38:53,279 Category: company Accuracy 0.258 Recall 0.188 F1 0.217
+2021-12-19 01:38:53,279 Category: scene Accuracy 0.194 Recall 0.086 F1 0.119
+2021-12-19 01:38:53,279 Category: government Accuracy 0.438 Recall 0.057 F1 0.100
+2021-12-19 01:38:53,279 Category: book Accuracy 0.375 Recall 0.078 F1 0.129
+2021-12-19 01:38:53,279 Category: game Accuracy 0.490 Recall 0.498 F1 0.494
+2021-12-19 01:38:53,279 
+
+2021-12-19 01:38:53,654 Train: [ 4/5] Step 000/335 Loss 39.350
+2021-12-19 01:39:14,889 Train: [ 4/5] Step 050/335 Loss 32.011
+2021-12-19 01:39:35,101 Train: [ 4/5] Step 100/335 Loss 29.775
+2021-12-19 01:39:53,773 Train: [ 4/5] Step 150/335 Loss 28.628
+2021-12-19 01:40:11,423 Train: [ 4/5] Step 200/335 Loss 27.628
+2021-12-19 01:40:27,329 Train: [ 4/5] Step 250/335 Loss 26.449
+2021-12-19 01:40:39,438 Train: [ 4/5] Step 300/335 Loss 24.909
+2021-12-19 01:40:44,688 Train: [ 4/5] Step 335/335 Loss 23.441
+2021-12-19 01:40:44,688 Train: [ 4/5] Final Loss 23.441
+2021-12-19 01:40:49,032 Valid: [ 4/5] Final Accuracy 0.474 Recall 0.179 F1 0.260
+2021-12-19 01:40:49,032 Valid Score For Each Entity Category: 
+2021-12-19 01:40:49,032 Category: name Accuracy 0.707 Recall 0.088 F1 0.157
+2021-12-19 01:40:49,032 Category: address Accuracy 0.333 Recall 0.078 F1 0.126
+2021-12-19 01:40:49,032 Category: movie Accuracy 0.375 Recall 0.040 F1 0.072
+2021-12-19 01:40:49,032 Category: position Accuracy 0.911 Recall 0.212 F1 0.345
+2021-12-19 01:40:49,032 Category: organization Accuracy 0.540 Recall 0.147 F1 0.231
+2021-12-19 01:40:49,032 Category: company Accuracy 0.333 Recall 0.270 F1 0.298
+2021-12-19 01:40:49,032 Category: scene Accuracy 0.320 Recall 0.158 F1 0.211
+2021-12-19 01:40:49,032 Category: government Accuracy 0.443 Recall 0.109 F1 0.175
+2021-12-19 01:40:49,032 Category: book Accuracy 0.286 Recall 0.104 F1 0.152
+2021-12-19 01:40:49,032 Category: game Accuracy 0.552 Recall 0.505 F1 0.527
+2021-12-19 01:40:49,032 
+
+2021-12-19 01:40:49,407 Train: [ 5/5] Step 000/335 Loss 36.239
+2021-12-19 01:41:10,567 Train: [ 5/5] Step 050/335 Loss 29.468
+2021-12-19 01:41:30,707 Train: [ 5/5] Step 100/335 Loss 27.512
+2021-12-19 01:41:49,582 Train: [ 5/5] Step 150/335 Loss 26.540
+2021-12-19 01:42:07,020 Train: [ 5/5] Step 200/335 Loss 25.645
+2021-12-19 01:42:22,898 Train: [ 5/5] Step 250/335 Loss 24.575
+2021-12-19 01:42:35,242 Train: [ 5/5] Step 300/335 Loss 23.167
+2021-12-19 01:42:40,523 Train: [ 5/5] Step 335/335 Loss 21.825
+2021-12-19 01:42:40,523 Train: [ 5/5] Final Loss 21.825
+2021-12-19 01:42:44,805 Valid: [ 5/5] Final Accuracy 0.509 Recall 0.209 F1 0.296
+2021-12-19 01:42:44,805 Valid Score For Each Entity Category: 
+2021-12-19 01:42:44,805 Category: name Accuracy 0.739 Recall 0.103 F1 0.181
+2021-12-19 01:42:44,805 Category: address Accuracy 0.429 Recall 0.113 F1 0.178
+2021-12-19 01:42:44,805 Category: movie Accuracy 0.333 Recall 0.073 F1 0.120
+2021-12-19 01:42:44,805 Category: position Accuracy 0.896 Recall 0.219 F1 0.352
+2021-12-19 01:42:44,805 Category: organization Accuracy 0.691 Recall 0.183 F1 0.289
+2021-12-19 01:42:44,805 Category: company Accuracy 0.351 Recall 0.307 F1 0.328
+2021-12-19 01:42:44,805 Category: scene Accuracy 0.353 Recall 0.172 F1 0.232
+2021-12-19 01:42:44,805 Category: government Accuracy 0.365 Recall 0.109 F1 0.168
+2021-12-19 01:42:44,805 Category: book Accuracy 0.404 Recall 0.136 F1 0.204
+2021-12-19 01:42:44,805 Category: game Accuracy 0.587 Recall 0.607 F1 0.597
+2021-12-19 01:42:44,805 
+
